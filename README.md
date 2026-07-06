@@ -18,7 +18,7 @@ This repository contains my winning solution to the MWC3 2026 collegiate databas
 
 ## Problem Statement
 
-The full reconstructed problem statement is available in [`problem-statement.md`](./problem-statement.md).
+The full reconstructed problem statement is available in [`problem-statement.md`](./2026_database-design_problem-statement.md).
 
 In short, the problem asked for a centralized database system for a franchise restaurant company that needed to manage its locations, employees, menus, recipes, and inventory across all stores.
 
